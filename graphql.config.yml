@@ -1,0 +1,5 @@
+projects:
+  frontend:
+    schema:
+      - http://localhost:3030/graphql
+    documents: ./src/**/*.{graphql,gql}

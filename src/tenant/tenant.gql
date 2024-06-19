@@ -1,0 +1,9 @@
+#graphql
+
+query getTenants {
+    tenants {
+        id
+        title
+        description
+    }
+}
